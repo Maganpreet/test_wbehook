@@ -2,7 +2,7 @@ class main:
     self.list=[]
     def __init__(self) -> None:
         self.list.append(1)
-    def print():
+    def print(self, mes = 'test'):
         print("you used the object")
         return self.list
     
